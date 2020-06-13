@@ -3,7 +3,6 @@
 // modified by VU3AVE for  ATTINY13 (1.2 MHz internal clock  speed) IC use, which is much cheaper than arduino board
 
 
-
 //  You can edit below 2 lines
 
 int Maximum_speed_WPM=30;
